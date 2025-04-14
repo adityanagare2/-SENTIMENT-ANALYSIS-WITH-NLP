@@ -96,4 +96,13 @@ Healthcare: Understand patient feedback to improve hospital services.
   #Conclusion
 This project demonstrates a practical and accessible pipeline for performing sentiment analysis using basic yet powerful tools. With TF-IDF for feature extraction and Logistic Regression for classification, this approach can be a solid starting point for any beginner interested in text analytics or machine learning. Once the basics are mastered, more advanced methods like deep learning or transformers (e.g., BERT) can be explored for higher accuracy and more complex language understanding.
 
+## output
+
+
+![Image](https://github.com/user-attachments/assets/8232b058-309f-4b68-9c5c-8c976bf62c04)
+
+![Image](https://github.com/user-attachments/assets/9367a58a-fa94-48d5-bb49-f75d7171ae61)
+
+![Image](https://github.com/user-attachments/assets/1ebc7243-9e4a-4a44-9e94-8abe181ab05f)
+
 
